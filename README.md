@@ -25,5 +25,6 @@ A simple Python-based chatbot created using Python.
 python "basic chat.py"
 
 
-##Author
-Tarun upadhyay
+## Author
+
+**Tarun Upadhyay**
