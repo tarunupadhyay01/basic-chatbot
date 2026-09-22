@@ -23,3 +23,7 @@ A simple Python-based chatbot created using Python.
 
 ```bash
 python "basic chat.py"
+
+
+##Author
+Tarun upadhyay
